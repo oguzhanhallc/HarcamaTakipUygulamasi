@@ -1,7 +1,0 @@
-{
-  "name": "harcama-takip",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
