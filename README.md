@@ -5,7 +5,7 @@ Bu proje, mobil programlama dersi kapsamında geliştirilmiş, kullanıcıların
 
 -- Harcama Ekleme: Harcama adı, tutarı ve kategorisi ile sisteme kayıt yapılır.
 
-<img width="376" height="826" alt="git1" src="https://github.com/user-attachments/assets/1cc9ca0a-6a3b-4d69-8b62-a1938a66f9c3" />
+<img width="371" height="586" alt="git1" src="https://github.com/user-attachments/assets/6033d0f7-0ccf-43d1-9e37-a7ef07cdf796" />
 
 -- Dinamik Listeleme: Eklenen harcamalar anlık olarak listede görüntülenir.
 
